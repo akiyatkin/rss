@@ -1,7 +1,6 @@
 {
     "name": "itlife/rss",
     "description": "plugin for infrajs",
-    "license": "GPL3",
     "authors": [{
         "name": "itlife",
         "email": "info@itlife-studio.ru"
